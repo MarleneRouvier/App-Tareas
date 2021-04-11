@@ -1,0 +1,10 @@
+.navbar {
+    background: rgba(133, 60, 60, 0.5);
+    width: 100%;
+    height: 55px;
+}
+
+.navbar span {
+    color: #fff;
+    text-transform: uppercase;
+}
